@@ -57,8 +57,13 @@ body{
 .contactp2{
     margin-left: 40px;
 }
-.contactp2::before{
-
+.icons{
+    margin-left: 30px;
+}
+i{
+    margin-top: 60px;
+    margin-left: 10px;
+    font-size: 22px;
 }
 .contactp3{
     margin-left: 40px;
